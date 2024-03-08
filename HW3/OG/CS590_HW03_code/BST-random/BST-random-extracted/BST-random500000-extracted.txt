@@ -1,0 +1,2 @@
+Sort : 192.1
+Duplicates : 59.3

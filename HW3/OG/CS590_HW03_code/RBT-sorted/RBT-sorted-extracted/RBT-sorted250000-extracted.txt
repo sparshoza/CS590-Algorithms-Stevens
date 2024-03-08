@@ -1,0 +1,7 @@
+Sort : 41.3
+case1 : 249961.0
+case2 : 0.0
+case3 : 249967.0
+Left rotate : 249967.0
+Right rotate : 0.0
+Duplicates : 0.0

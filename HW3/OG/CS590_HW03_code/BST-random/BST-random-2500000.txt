@@ -1,0 +1,60 @@
+Timer (generate): 30ms real	30ms user	0ms sys
+Running sort using BS trees: 
+Timer (sort): 1873ms real	1830ms user	30ms sys
+New size: 2498519
+Duplicates: 1481
+The output is sorted!
+Timer (generate): 33ms real	30ms user	0ms sys
+Running sort using BS trees: 
+Timer (sort): 1813ms real	1780ms user	20ms sys
+New size: 2498494
+Duplicates: 1506
+The output is sorted!
+Timer (generate): 30ms real	30ms user	0ms sys
+Running sort using BS trees: 
+Timer (sort): 1784ms real	1710ms user	60ms sys
+New size: 2498534
+Duplicates: 1466
+The output is sorted!
+Timer (generate): 30ms real	30ms user	0ms sys
+Running sort using BS trees: 
+Timer (sort): 1747ms real	1730ms user	10ms sys
+New size: 2498572
+Duplicates: 1428
+The output is sorted!
+Timer (generate): 29ms real	30ms user	0ms sys
+Running sort using BS trees: 
+Timer (sort): 1764ms real	1720ms user	30ms sys
+New size: 2498572
+Duplicates: 1428
+The output is sorted!
+Timer (generate): 32ms real	20ms user	0ms sys
+Running sort using BS trees: 
+Timer (sort): 1853ms real	1840ms user	10ms sys
+New size: 2498486
+Duplicates: 1514
+The output is sorted!
+Timer (generate): 32ms real	20ms user	0ms sys
+Running sort using BS trees: 
+Timer (sort): 2226ms real	2200ms user	20ms sys
+New size: 2498566
+Duplicates: 1434
+The output is sorted!
+Timer (generate): 33ms real	30ms user	0ms sys
+Running sort using BS trees: 
+Timer (sort): 2048ms real	2020ms user	30ms sys
+New size: 2498606
+Duplicates: 1394
+The output is sorted!
+Timer (generate): 31ms real	30ms user	0ms sys
+Running sort using BS trees: 
+Timer (sort): 1727ms real	1680ms user	40ms sys
+New size: 2498541
+Duplicates: 1459
+The output is sorted!
+Timer (generate): 33ms real	20ms user	0ms sys
+Running sort using BS trees: 
+Timer (sort): 2104ms real	2100ms user	0ms sys
+New size: 2498515
+Duplicates: 1485
+The output is sorted!

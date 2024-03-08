@@ -1,0 +1,10 @@
+Timer (generate): 1ms real	0ms user	0ms sys
+Running sort using BS trees: 
+Timer (generate): 1ms real	0ms user	0ms sys
+Running sort using BS trees: 
+Timer (generate): 0ms real	0ms user	0ms sys
+Running sort using BS trees: 
+Timer (generate): 0ms real	0ms user	0ms sys
+Running sort using BS trees: 
+Timer (generate): 1ms real	0ms user	0ms sys
+Running sort using BS trees: 

@@ -1,0 +1,130 @@
+Timer (generate): 13ms real	10ms user	0ms sys
+Running sort using RB trees: 
+Timer (sort): 634ms real	630ms user	0ms sys
+New size: 999747
+Black height: 12
+Time (black height test): 44ms real	50ms user	0ms sys
+Case 1: 513219
+Case 2: 194087
+Case 3: 387781
+Left Rotate: 291125
+Right Rotate: 290743
+Duplicates: 253
+The output is sorted!
+Timer (generate): 12ms real	10ms user	0ms sys
+Running sort using RB trees: 
+Timer (sort): 594ms real	580ms user	10ms sys
+New size: 999755
+Black height: 13
+Time (black height test): 41ms real	40ms user	0ms sys
+Case 1: 513470
+Case 2: 193824
+Case 3: 388258
+Left Rotate: 291668
+Right Rotate: 290414
+Duplicates: 245
+The output is sorted!
+Timer (generate): 13ms real	10ms user	0ms sys
+Running sort using RB trees: 
+Timer (sort): 474ms real	440ms user	20ms sys
+New size: 999781
+Black height: 12
+Time (black height test): 40ms real	40ms user	0ms sys
+Case 1: 513287
+Case 2: 193366
+Case 3: 387596
+Left Rotate: 290585
+Right Rotate: 290377
+Duplicates: 219
+The output is sorted!
+Timer (generate): 12ms real	10ms user	0ms sys
+Running sort using RB trees: 
+Timer (sort): 468ms real	460ms user	10ms sys
+New size: 999757
+Black height: 13
+Time (black height test): 40ms real	40ms user	0ms sys
+Case 1: 513180
+Case 2: 194721
+Case 3: 389280
+Left Rotate: 292204
+Right Rotate: 291797
+Duplicates: 243
+The output is sorted!
+Timer (generate): 12ms real	10ms user	0ms sys
+Running sort using RB trees: 
+Timer (sort): 484ms real	470ms user	10ms sys
+New size: 999763
+Black height: 13
+Time (black height test): 40ms real	40ms user	0ms sys
+Case 1: 513177
+Case 2: 194004
+Case 3: 388783
+Left Rotate: 291624
+Right Rotate: 291163
+Duplicates: 237
+The output is sorted!
+Timer (generate): 13ms real	10ms user	0ms sys
+Running sort using RB trees: 
+Timer (sort): 587ms real	580ms user	10ms sys
+New size: 999774
+Black height: 12
+Time (black height test): 40ms real	40ms user	0ms sys
+Case 1: 513230
+Case 2: 194109
+Case 3: 387828
+Left Rotate: 290678
+Right Rotate: 291259
+Duplicates: 226
+The output is sorted!
+Timer (generate): 14ms real	10ms user	0ms sys
+Running sort using RB trees: 
+Timer (sort): 654ms real	640ms user	20ms sys
+New size: 999766
+Black height: 13
+Time (black height test): 47ms real	40ms user	0ms sys
+Case 1: 513235
+Case 2: 193944
+Case 3: 388227
+Left Rotate: 290748
+Right Rotate: 291423
+Duplicates: 234
+The output is sorted!
+Timer (generate): 14ms real	10ms user	0ms sys
+Running sort using RB trees: 
+Timer (sort): 485ms real	440ms user	40ms sys
+New size: 999762
+Black height: 12
+Time (black height test): 41ms real	40ms user	0ms sys
+Case 1: 513332
+Case 2: 194365
+Case 3: 388592
+Left Rotate: 291232
+Right Rotate: 291725
+Duplicates: 238
+The output is sorted!
+Timer (generate): 12ms real	10ms user	0ms sys
+Running sort using RB trees: 
+Timer (sort): 511ms real	500ms user	0ms sys
+New size: 999763
+Black height: 13
+Time (black height test): 40ms real	40ms user	0ms sys
+Case 1: 513396
+Case 2: 193819
+Case 3: 388622
+Left Rotate: 291209
+Right Rotate: 291232
+Duplicates: 237
+The output is sorted!
+Timer (generate): 12ms real	0ms user	0ms sys
+Running sort using RB trees: 
+Timer (sort): 475ms real	460ms user	10ms sys
+New size: 999750
+Black height: 12
+Time (black height test): 42ms real	50ms user	0ms sys
+Case 1: 513148
+Case 2: 194122
+Case 3: 387784
+Left Rotate: 290819
+Right Rotate: 291087
+Duplicates: 250
+The output is sorted!
